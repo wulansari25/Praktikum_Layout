@@ -3,10 +3,11 @@
 A new Flutter project.
 
 ## Getting Started
+
 ### fitri ayu wulan sari
 ### 362358302106
 
-![code](assets/image/image.png)
+![image](assets/02.png)
 
 This project is a starting point for a Flutter application.
 
